@@ -13,10 +13,10 @@ input {
 	border: none;
 }
 .trafalgar-38G {
-  width: 100%;
+  width: 1638;
   overflow: hidden;
   position: relative;
-  align-items: flex-end;
+  align-items: center;
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
@@ -24,8 +24,8 @@ input {
 
 .trafalgar-38G .auto-group-5f1v-UDa {
   box-sizing: border-box;
-  padding: 5.6rem 0rem 12.9rem 0rem;
-  width: 100%;
+  padding: 5.6rem 0rem 12.9rem 17.4rem;
+  width: 1638;
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -469,7 +469,7 @@ input {
   flex-shrink: 0;
 }
 .trafalgar-38G .auto-group-5f1v-UDa .our-services-eXE {
-  margin: 0rem 0rem 18rem 0rem;
+  margin: 0rem 12rem 18rem 0rem;
   width: 167.5581rem;
   align-items: center;
   display: flex;
@@ -1088,7 +1088,6 @@ input {
   flex-shrink: 0;
 }
 .trafalgar-38G .auto-group-5f1v-UDa .our-services-eXE .btn-stx {
-  margin: 0rem 1.958rem 0rem 3.6rem;
   width: calc(100% - 147.5581rem);
   height: 6rem;
   position: relative;
@@ -1110,6 +1109,7 @@ input {
   border: solid 0.14rem #458ff6;
   box-sizing: border-box;
   border-radius: 5.5rem;
+  
 }
 .trafalgar-38G .auto-group-5f1v-UDa .our-services-eXE .btn-stx .learn-more-uKr {
   width: 9.1rem;
@@ -1131,7 +1131,7 @@ input {
   opacity: 0.5;
 }
 .trafalgar-38G .auto-group-5f1v-UDa .auto-group-2yn4-9jz {
-  margin: 0rem 0rem 25.1rem 13.5rem;
+  margin: 0rem 10rem 25.1rem 2.5rem;
   width: 151.0581rem;
   height: 114rem;
   position: relative;
@@ -1497,6 +1497,7 @@ input {
   top: 0;
   display: flex;
   align-items: center;
+  padding-left: 10rem;
 }
 .trafalgar-38G .auto-group-5f1v-UDa .auto-group-2yn4-9jz .leading-healthcare-providers-Jjv .trafalgar-illustration-sec02-1-EtU {
   margin-right: 13.7rem;
@@ -1573,19 +1574,22 @@ input {
 }
 
 .trafalgar-38G .auto-group-5f1v-UDa .testimonials-MGG {
-  margin: 0rem 30.042rem 21.6rem 19rem;
-  width: calc(100% - 38.0419rem);
-  align-items: center;
   display: flex;
   flex-direction: column;
+  width: calc(100% - 38.0419rem);
+  align-items: center;
   flex-shrink: 0;
+  margin-bottom: 100px;
 }
-.trafalgar-38G .auto-group-5f1v-UDa .testimonials-MGG .group-6-rD2 {
+.auto-group-5f1v-UDa .testimonials-MGG .group-6-rD2 {
   margin-bottom: 4.2rem;
   width: 100%;
   height: 44rem;
   position: relative;
   flex-shrink: 0;
+  margin-left: 390px;
+
+
 }
 .trafalgar-38G .auto-group-5f1v-UDa .testimonials-MGG .group-6-rD2 .group-aPv {
   opacity: 0.3;
@@ -1869,6 +1873,9 @@ input {
   top: 1.5rem;
   background: linear-gradient(208.18deg, #67c3f3 9.05%, #5a98f2 76.74%);
   border-radius: 2.4rem;
+  
+
+
 }
 .trafalgar-38G .auto-group-5f1v-UDa .testimonials-MGG .group-6-rD2 .group-HsJ {
   opacity: 0.26;
@@ -2214,7 +2221,7 @@ input {
   vertical-align: top;
 }
 .trafalgar-38G .auto-group-5f1v-UDa .testimonials-MGG .arrow-nav-hFS {
-  margin: 0rem 44.015rem 0rem 44.3rem;
+  margin: 0rem 15.015rem 0rem 44.3rem;
   box-sizing: border-box;
   padding: 0.071rem 0.122rem 0.071rem 0.122rem;
   width: calc(100% - 88.3152rem);
@@ -2277,7 +2284,7 @@ input {
   flex-shrink: 0;
 }
 .trafalgar-38G .auto-group-5f1v-UDa .our-lates-article-SuA {
-  margin-left: 55.1rem;
+  margin-left: 37.1rem;
   width: 178.5115rem;
   height: 81rem;
   position: relative;
@@ -3113,9 +3120,9 @@ input {
   flex-shrink: 0;
 }
 .trafalgar-38G .footer-CHr .bg-rnx {
-  width: 160rem;
+  width: 100%;
   height: 43.2rem;
-  position: absolute;
+  position: relative;
   left: 0;
   top: 7.2rem;
   background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
