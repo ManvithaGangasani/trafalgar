@@ -3120,13 +3120,14 @@ input {
   flex-shrink: 0;
 }
 .trafalgar-38G .footer-CHr .bg-rnx {
-  width: 100%;
+  width: 1600px;
   height: 43.2rem;
   position: relative;
   left: 0;
   top: 7.2rem;
   background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
  background-size: 100% 100%;
+ min-width: 1440px;
 }
 .trafalgar-38G .footer-CHr .trafalgar-xb6 {
   width: 33.1rem;
